@@ -1,0 +1,4 @@
+paddle-serving-app>=0.7.0        
+paddle-serving-client>=0.7.0        
+paddle-serving-server-gpu>=0.7.0.post102
+hnswlib>=0.5.2
